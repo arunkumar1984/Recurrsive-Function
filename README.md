@@ -1,6 +1,6 @@
-# Basic-Project (Master branch)
+# Recursive-Project (Master branch)
 
-##Warm up Day 04: Basic Project -- 05/23/2016
-To stock up various classes to be created during the course
+##Warm up Day 12: Recursive Project -- 06/11/2016
+To display the nth number in Fibonacci Series
 
 [Arunkumar Venkatraman](http://sqasolution.com)
